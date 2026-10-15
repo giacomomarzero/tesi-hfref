@@ -1,0 +1,97 @@
+{
+  "drug_classes": [
+    {
+      "drug_class": "ACE-I",
+      "drugs": [
+        {
+          "generic_drug_name": "Captopril"
+        },
+        {
+          "generic_drug_name": "Enalapril"
+        },
+        {
+          "generic_drug_name": "Lisinopril"
+        },
+        {
+          "generic_drug_name": "Ramipril"
+        },
+        {
+          "generic_drug_name": "Trandolapril"
+        }
+      ]
+    },
+    {
+      "drug_class": "ARNI",
+      "drugs": [
+        {
+          "generic_drug_name": "Sacubitril/valsartan"
+        }
+      ]
+    },
+    {
+      "drug_class": "Beta-blockers",
+      "drugs": [
+        {
+          "generic_drug_name": "Bisoprolol"
+        },
+        {
+          "generic_drug_name": "Carvedilol"
+        },
+        {
+          "generic_drug_name": "Metoprolol succinate (CR/XL)"
+        },
+        {
+          "generic_drug_name": "Nebivolol"
+        }
+      ]
+    },
+    {
+      "drug_class": "MRA",
+      "drugs": [
+        {
+          "generic_drug_name": "Eplerenone"
+        },
+        {
+          "generic_drug_name": "Spironolactone"
+        }
+      ]
+    },
+    {
+      "drug_class": "SGLT2 inhibitor",
+      "drugs": [
+        {
+          "generic_drug_name": "Dapagliflozin"
+        },
+        {
+          "generic_drug_name": "Empagliflozin"
+        }
+      ]
+    },
+    {
+      "drug_class": "Other agents",
+      "drugs": [
+        {
+          "generic_drug_name": "Candesartan"
+        },
+        {
+          "generic_drug_name": "Losartan"
+        },
+        {
+          "generic_drug_name": "Valsartan"
+        },
+        {
+          "generic_drug_name": "Ivabradine"
+        },
+        {
+          "generic_drug_name": "Vericiguat"
+        },
+        {
+          "generic_drug_name": "Digoxin"
+        },
+        {
+          "generic_drug_name": "Hydralazine/Isosorbide dinitrate"
+        }
+      ]
+    }
+  ]
+}

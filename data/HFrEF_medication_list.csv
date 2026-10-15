@@ -1,0 +1,22 @@
+drug_class,generic_drug_name
+ACE-I,Captopril
+ACE-I,Enalapril
+ACE-I,Lisinopril
+ACE-I,Ramipril
+ACE-I,Trandolapril
+ARNI,Sacubitril/valsartan
+Beta-blockers,Bisoprolol
+Beta-blockers,Carvedilol
+Beta-blockers,Metoprolol succinate (CR/XL)
+Beta-blockers,Nebivolol
+MRA,Eplerenone
+MRA,Spironolactone
+SGLT2 inhibitor,Dapagliflozin
+SGLT2 inhibitor,Empagliflozin
+Other agents,Candesartan
+Other agents,Losartan
+Other agents,Valsartan
+Other agents,Ivabradine
+Other agents,Vericiguat
+Other agents,Digoxin
+Other agents,Hydralazine/Isosorbide dinitrate

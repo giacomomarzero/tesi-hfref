@@ -1,0 +1,183 @@
+[
+  {
+    "medications": [
+      {
+        "drug_class": "ACE-I",
+        "drugs": [
+          {
+            "generic_drug_name": "Captopril",
+            "starting_dose": "6.25 mg",
+            "target_dose": "50 mg",
+            "starting_dose_daily_intakes": 3,
+            "target_dose_daily_intakes": 3
+          },
+          {
+            "generic_drug_name": "Enalapril",
+            "starting_dose": "2.5 mg",
+            "target_dose": "10–20 mg",
+            "starting_dose_daily_intakes": 2,
+            "target_dose_daily_intakes": 2
+          },
+          {
+            "generic_drug_name": "Lisinopril",
+            "starting_dose": "2.5–5 mg",
+            "target_dose": "20–35 mg",
+            "starting_dose_daily_intakes": 1,
+            "target_dose_daily_intakes": 1
+          },
+          {
+            "generic_drug_name": "Ramipril",
+            "starting_dose": "2.5 mg",
+            "target_dose": "5 mg",
+            "starting_dose_daily_intakes": 2,
+            "target_dose_daily_intakes": 2
+          },
+          {
+            "generic_drug_name": "Trandolapril",
+            "starting_dose": "0.5 mg",
+            "target_dose": "4 mg",
+            "starting_dose_daily_intakes": 1,
+            "target_dose_daily_intakes": 1
+          }
+        ]
+      },
+      {
+        "drug_class": "ARNI",
+        "drugs": [
+          {
+            "generic_drug_name": "Sacubitril/valsartan",
+            "starting_dose": "49/51 mg",
+            "target_dose": "97/103 mg",
+            "starting_dose_daily_intakes": 2,
+            "target_dose_daily_intakes": 2
+          }
+        ]
+      },
+      {
+        "drug_class": "Beta-blockers",
+        "drugs": [
+          {
+            "generic_drug_name": "Bisoprolol",
+            "starting_dose": "1.25 mg",
+            "target_dose": "10 mg",
+            "starting_dose_daily_intakes": 1,
+            "target_dose_daily_intakes": 1
+          },
+          {
+            "generic_drug_name": "Carvedilol",
+            "starting_dose": "3.125 mg",
+            "target_dose": "25 mg",
+            "starting_dose_daily_intakes": 2,
+            "target_dose_daily_intakes": 2
+          },
+          {
+            "generic_drug_name": "Metoprolol succinate (CR/XL)",
+            "starting_dose": "12.5–25 mg",
+            "target_dose": "200 mg",
+            "starting_dose_daily_intakes": 1,
+            "target_dose_daily_intakes": 1
+          },
+          {
+            "generic_drug_name": "Nebivolol",
+            "starting_dose": "1.25 mg",
+            "target_dose": "10 mg",
+            "starting_dose_daily_intakes": 1,
+            "target_dose_daily_intakes": 1
+          }
+        ]
+      },
+      {
+        "drug_class": "MRA",
+        "drugs": [
+          {
+            "generic_drug_name": "Eplerenone",
+            "starting_dose": "25 mg",
+            "target_dose": "50 mg",
+            "starting_dose_daily_intakes": 1,
+            "target_dose_daily_intakes": 1
+          },
+          {
+            "generic_drug_name": "Spironolactone",
+            "starting_dose": "25 mg",
+            "target_dose": "50 mg",
+            "starting_dose_daily_intakes": 1,
+            "target_dose_daily_intakes": 1
+          }
+        ]
+      },
+      {
+        "drug_class": "SGLT2 inhibitor",
+        "drugs": [
+          {
+            "generic_drug_name": "Dapagliflozin",
+            "starting_dose": "10 mg",
+            "target_dose": "10 mg",
+            "starting_dose_daily_intakes": 1,
+            "target_dose_daily_intakes": 1
+          },
+          {
+            "generic_drug_name": "Empagliflozin",
+            "starting_dose": "10 mg",
+            "target_dose": "10 mg",
+            "starting_dose_daily_intakes": 1,
+            "target_dose_daily_intakes": 1
+          }
+        ]
+      },
+      {
+        "drug_class": "Other agents",
+        "drugs": [
+          {
+            "generic_drug_name": "Candesartan",
+            "starting_dose": "4 mg",
+            "target_dose": "32 mg",
+            "starting_dose_daily_intakes": 1,
+            "target_dose_daily_intakes": 1
+          },
+          {
+            "generic_drug_name": "Losartan",
+            "starting_dose": "50 mg",
+            "target_dose": "150 mg",
+            "starting_dose_daily_intakes": 1,
+            "target_dose_daily_intakes": 1
+          },
+          {
+            "generic_drug_name": "Valsartan",
+            "starting_dose": "40 mg",
+            "target_dose": "160 mg",
+            "starting_dose_daily_intakes": 2,
+            "target_dose_daily_intakes": 2
+          },
+          {
+            "generic_drug_name": "Ivabradine",
+            "starting_dose": "5 mg",
+            "target_dose": "7.5 mg",
+            "starting_dose_daily_intakes": 2,
+            "target_dose_daily_intakes": 2
+          },
+          {
+            "generic_drug_name": "Vericiguat",
+            "starting_dose": "2.5 mg",
+            "target_dose": "10 mg",
+            "starting_dose_daily_intakes": 1,
+            "target_dose_daily_intakes": 1
+          },
+          {
+            "generic_drug_name": "Digoxin",
+            "starting_dose": "62.5 µg",
+            "target_dose": "250 µg",
+            "starting_dose_daily_intakes": 1,
+            "target_dose_daily_intakes": 1
+          },
+          {
+            "generic_drug_name": "Hydralazine/Isosorbide dinitrate",
+            "starting_dose": "37.5 mg/20 mg",
+            "target_dose": "75 mg/40 mg",
+            "starting_dose_daily_intakes": 3,
+            "target_dose_daily_intakes": 3
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+drug_class,generic_drug_name,starting_dose,target_dose,starting_dose_daily_intakes,target_dose_daily_intakes
+ACE-I,Captopril,6.25 mg,50 mg,3,3
+ACE-I,Enalapril,2.5 mg,10–20 mg,2,2
+ACE-I,Lisinopril,2.5–5 mg,20–35 mg,1,1
+ACE-I,Ramipril,2.5 mg,5 mg,2,2
+ACE-I,Trandolapril,0.5 mg,4 mg,1,1
+ARNI,Sacubitril/valsartan,49/51 mg,97/103 mg,2,2
+Beta-blockers,Bisoprolol,1.25 mg,10 mg,1,1
+Beta-blockers,Carvedilol,3.125 mg,25 mg,2,2
+Beta-blockers,Metoprolol succinate (CR/XL),12.5–25 mg,200 mg,1,1
+Beta-blockers,Nebivolol,1.25 mg,10 mg,1,1
+MRA,Eplerenone,25 mg,50 mg,1,1
+MRA,Spironolactone,25 mg,50 mg,1,1
+SGLT2 inhibitor,Dapagliflozin,10 mg,10 mg,1,1
+SGLT2 inhibitor,Empagliflozin,10 mg,10 mg,1,1
+Other agents,Candesartan,4 mg,32 mg,1,1
+Other agents,Losartan,50 mg,150 mg,1,1
+Other agents,Valsartan,40 mg,160 mg,2,2
+Other agents,Ivabradine,5 mg,7.5 mg,2,2
+Other agents,Vericiguat,2.5 mg,10 mg,1,1
+Other agents,Digoxin,62.5 µg,250 µg,1,1
+Other agents,Hydralazine/Isosorbide dinitrate,37.5 mg/20 mg,75 mg/40 mg,3,3
